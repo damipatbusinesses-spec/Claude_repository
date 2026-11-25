@@ -1,0 +1,11 @@
+1
+00:00:00,200 --> 00:00:03,350
+AI ogląda wiele przykładów
+
+2
+00:00:03,450 --> 00:00:06,600
+i szuka w nich wzorców.
+
+3
+00:00:06,700 --> 00:00:09,950
+Potem rozpoznaje coś nowego.

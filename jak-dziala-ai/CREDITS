@@ -1,0 +1,8 @@
+Jak działa AI? — materiały zewnętrzne
+
+Font: Caveat (Caveat Project Authors), SIL Open Font License 1.1 — fonts/OFL-caveat.txt
+      źródło: pakiet npm @fontsource/caveat 5.3.0 (podzbiory latin i latin-ext)
+Muzyka: oryginalna partytura; harfa syntetyzowana modelem fizycznym (core/audio/pluck.py z biblioteki Lemo-Opuscar, MIT). Bez sampli.
+Efekty: pióro, włókna papieru i kleks syntetyzowane proceduralnie (numpy/scipy, core/audio/sfx.py, MIT).
+Narzędzia: Lemo-Opuscar (github.com/lemomo-ai/lemo-opuscar) — kod MIT; opis stylu One-line Drawing CC BY-NC 4.0.
+Obraz: rysowany w całości kodem (film.js). Brak głosu, brak materiałów stockowych.

@@ -1,13 +1,20 @@
 {
+  "enabledPlugins": {
+    "document-skills@anthropic-agent-skills": true,
+    "lemo-opuscar@lemolab": true
+  },
   "extraKnownMarketplaces": {
     "anthropic-agent-skills": {
       "source": {
         "source": "github",
         "repo": "anthropics/skills"
       }
+    },
+    "lemolab": {
+      "source": {
+        "source": "github",
+        "repo": "lemomo-ai/lemo-opuscar"
+      }
     }
-  },
-  "enabledPlugins": {
-    "document-skills@anthropic-agent-skills": true
   }
 }
