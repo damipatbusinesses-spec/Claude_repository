@@ -1,7 +1,8 @@
 {
   "enabledPlugins": {
     "document-skills@anthropic-agent-skills": true,
-    "lemo-opuscar@lemolab": true
+    "lemo-opuscar@lemolab": true,
+    "ponytail@ponytail": true
   },
   "extraKnownMarketplaces": {
     "anthropic-agent-skills": {
@@ -14,6 +15,12 @@
       "source": {
         "source": "github",
         "repo": "lemomo-ai/lemo-opuscar"
+      }
+    },
+    "ponytail": {
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
       }
     }
   }
